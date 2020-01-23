@@ -35,7 +35,9 @@ def monopoly_with_third_tier
 	      
 	      
 	    },
-	    :names => "fatma"
+	    :names => { :n_1 => 1 , :n_2 => 2 , :n_3 =>3 , :n_4 => 4
+	      
+	    }
 	}
 	}
   
